@@ -76,18 +76,3 @@ const displayMessage = function (message){
 
 
     
-Abiola@DESKTOP-G4LA4KH MINGW64 ~/Desktop/game (main)
-$ git remote add origin https://github.com/Lawa223/Guess-Number.git
-error: remote origin already exists.
-
-Abiola@DESKTOP-G4LA4KH MINGW64 ~/Desktop/starter (main)
-$ git push -u origin main
-info: please complete authentication in your browser...
-Enumerating objects: 6, done.
-Counting objects: 100% (6/6), done.
-Delta compression using up to 4 threads
-Compressing objects: 100% (6/6), done.
-Writing objects: 100% (6/6), 1.76 KiB | 450.00 KiB/s, done.  
-Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-To https://github.com/Lawa223/Guess-Number.git
- * [new branch]      main -> main
